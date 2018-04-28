@@ -1,6 +1,6 @@
 # cartodbdocker
 
-This contains docker build code for cartodb along with data analysis module.
+This repo contains code for building cartodb docker image along with data analysis module.
 
 Clone the repo and run below command to build docker container for cartodb 
 
