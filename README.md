@@ -1,4 +1,4 @@
-# cartodbdocker
+# cartodb-docker
 
 This repo contains code for building cartodb docker image along with data analysis module.
 
